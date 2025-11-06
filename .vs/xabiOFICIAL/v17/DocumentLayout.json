@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|c:\\users\\xgarciaber\\source\\repos\\xabioficial\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\detallecochepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:detallecochepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\detallecochepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:detallecochepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\cochespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:cochespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\cochespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:cochespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\detallenoticiapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:detallenoticiapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\detallenoticiapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:detallenoticiapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\noticiaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:noticiaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\noticiaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:noticiaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\detalleofertapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:detalleofertapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\detalleofertapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:detalleofertapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\empleopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:empleopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\empleopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:empleopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\sesionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:sesionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\iniciopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:iniciopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\iniciopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:iniciopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3868C7E-370F-4D1D-AF81-7BE530587830}|xabiOFICIAL.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xgarciaber\\AppData\\Local\\Temp\\.vsdbgsrc\\699f1796fa35f5412b09d1e42e609a6b3fe6d0380a34fe0e226b6fd9192eb276\\NavigationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T18:23:21.51Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleNoticiaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\DetalleNoticiaPage.xaml.cs",
+              "RelativeDocumentMoniker": "DetalleNoticiaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\DetalleNoticiaPage.xaml.cs",
+              "RelativeToolTip": "DetalleNoticiaPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:13:46.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "LoginPage.xaml",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\LoginPage.xaml",
+              "RelativeToolTip": "LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T18:52:33.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CochesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\CochesPage.xaml",
+              "RelativeDocumentMoniker": "CochesPage.xaml",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\CochesPage.xaml",
+              "RelativeToolTip": "CochesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T18:44:06.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CochesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\CochesPage.xaml.cs",
+              "RelativeDocumentMoniker": "CochesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\CochesPage.xaml.cs",
+              "RelativeToolTip": "CochesPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:44:40.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmpleoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\EmpleoPage.xaml.cs",
+              "RelativeDocumentMoniker": "EmpleoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\EmpleoPage.xaml.cs",
+              "RelativeToolTip": "EmpleoPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:43:10.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoticiasPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\NoticiasPage.xaml",
+              "RelativeDocumentMoniker": "NoticiasPage.xaml",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\NoticiasPage.xaml",
+              "RelativeToolTip": "NoticiasPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T18:43:31.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionDB.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\ConexionDB.cs",
+              "RelativeDocumentMoniker": "ConexionDB.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\ConexionDB.cs",
+              "RelativeToolTip": "ConexionDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:51:51.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetalleCochePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\DetalleCochePage.xaml.cs",
+              "RelativeDocumentMoniker": "DetalleCochePage.xaml.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\DetalleCochePage.xaml.cs",
+              "RelativeToolTip": "DetalleCochePage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:14:53.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetalleCochePage.xaml",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\DetalleCochePage.xaml",
+              "RelativeDocumentMoniker": "DetalleCochePage.xaml",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\DetalleCochePage.xaml",
+              "RelativeToolTip": "DetalleCochePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T19:14:36.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoticiasPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\NoticiasPage.xaml.cs",
+              "RelativeDocumentMoniker": "NoticiasPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\NoticiasPage.xaml.cs",
+              "RelativeToolTip": "NoticiasPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:43:54.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SignupPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\SignupPage.xaml",
+              "RelativeDocumentMoniker": "SignupPage.xaml",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\SignupPage.xaml",
+              "RelativeToolTip": "SignupPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T18:53:42.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetalleOfertaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\DetalleOfertaPage.xaml.cs",
+              "RelativeDocumentMoniker": "DetalleOfertaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\DetalleOfertaPage.xaml.cs",
+              "RelativeToolTip": "DetalleOfertaPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:11:46.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleNoticiaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\DetalleNoticiaPage.xaml",
+              "RelativeDocumentMoniker": "DetalleNoticiaPage.xaml",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\DetalleNoticiaPage.xaml",
+              "RelativeToolTip": "DetalleNoticiaPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T19:13:25.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmpleoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\EmpleoPage.xaml",
+              "RelativeDocumentMoniker": "EmpleoPage.xaml",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\EmpleoPage.xaml",
+              "RelativeToolTip": "EmpleoPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T18:42:53.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetalleOfertaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\DetalleOfertaPage.xaml",
+              "RelativeDocumentMoniker": "DetalleOfertaPage.xaml",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\DetalleOfertaPage.xaml",
+              "RelativeToolTip": "DetalleOfertaPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T19:11:21.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvwwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:23:21.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SignupPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\SignupPage.xaml.cs",
+              "RelativeDocumentMoniker": "SignupPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\SignupPage.xaml.cs",
+              "RelativeToolTip": "SignupPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:54:35.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\LoginPage.xaml.cs",
+              "RelativeToolTip": "LoginPage.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:53:08.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SesionManager.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\SesionManager.cs",
+              "RelativeDocumentMoniker": "SesionManager.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\SesionManager.cs",
+              "RelativeToolTip": "SesionManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T19:01:20.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:59:06.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T18:40:42.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InicioPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\InicioPage.xaml.cs",
+              "RelativeDocumentMoniker": "InicioPage.xaml.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\InicioPage.xaml.cs",
+              "RelativeToolTip": "InicioPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:42:25.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InicioPage.xaml",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\InicioPage.xaml",
+              "RelativeDocumentMoniker": "InicioPage.xaml",
+              "ToolTip": "C:\\Users\\xgarciaber\\source\\repos\\xabiOFICIAL\\InicioPage.xaml",
+              "RelativeToolTip": "InicioPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T18:42:06.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\xgarciaber\\AppData\\Local\\Temp\\.vsdbgsrc\\699f1796fa35f5412b09d1e42e609a6b3fe6d0380a34fe0e226b6fd9192eb276\\NavigationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\699f1796fa35f5412b09d1e42e609a6b3fe6d0380a34fe0e226b6fd9192eb276\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\xgarciaber\\AppData\\Local\\Temp\\.vsdbgsrc\\699f1796fa35f5412b09d1e42e609a6b3fe6d0380a34fe0e226b6fd9192eb276\\NavigationService.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\699f1796fa35f5412b09d1e42e609a6b3fe6d0380a34fe0e226b6fd9192eb276\\NavigationService.cs [Solo lectura]",
+              "ViewState": "AgIAAH4EAAAAAAAAAAAiwJQEAAAaAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:30:38.89Z",
+              "EditorCaption": " [Solo lectura]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

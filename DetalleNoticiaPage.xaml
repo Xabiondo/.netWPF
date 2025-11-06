@@ -1,0 +1,41 @@
+﻿<Page x:Class="xabiOFICIAL.DetalleNoticiaPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:xabiOFICIAL"
+      mc:Ignorable="d"
+      d:DesignHeight="600" d:DesignWidth="1000"
+      Title="DetalleNoticiaPage" Background="Black">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Noticia" 
+                       Foreground="White" 
+                       FontSize="28" 
+                       HorizontalAlignment="Center" 
+                       Margin="0,0,0,20"/>
+
+            <TextBlock Text="Título: Nuevo Volkswagen ID.7 Presentado en Europa" 
+                       Foreground="White" 
+                       FontSize="16" 
+                       HorizontalAlignment="Center" 
+                       Margin="0,0,0,10"/>
+
+            <TextBlock Text="Fecha: 7 de Noviembre, 2025" 
+                       Foreground="White" 
+                       FontSize="14" 
+                       HorizontalAlignment="Center" 
+                       Margin="0,0,0,10"/>
+
+            <TextBlock Text="Descripción: Volkswagen presenta su nuevo modelo eléctrico ID.7 con autonomía de 620 km y sistema de carga rápida." 
+                       Foreground="White" 
+                       FontSize="14" 
+                       HorizontalAlignment="Center" 
+                       TextWrapping="Wrap" 
+                       Width="500" 
+                       Margin="0,0,0,20"/>
+
+            <Button x:Name="BtnVolverNoticia" Content="Volver" Width="300" Height="40" Background="Gray" Foreground="White" Click="BtnVolverNoticia_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>
